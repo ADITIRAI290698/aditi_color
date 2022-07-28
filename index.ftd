@@ -53,16 +53,16 @@ lang: ftd
 
 
 -- ftd.color base-:
-light: #14365D
-dark: #14365D
+light: #FFF44F
+dark: #FFF44F
 
 -- ftd.color step-1-:
-light: #FFE26A
-dark: #FFE26A
+light: #FFF700
+dark: #FFF700
 
 -- ftd.color step-2-:
-light: #008C9B
-dark: #008C9B
+light: #F9F871
+dark: #F9F871
 
 -- ftd.background-colors background-:
 base: $base-
