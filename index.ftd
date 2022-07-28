@@ -41,7 +41,7 @@ Import `lemon-lime` into `FPM/config.ftd` file.
 -- cb.code:
 lang: ftd
 
-\-- import: lemon-lim
+\-- import: lemon-lime
 
 
 
@@ -93,32 +93,32 @@ light: #007f9b
 dark: #007f9b
 
 -- ftd.color cta-primary-base-:
-light: #0d253f
-dark: #0d253f
+light: #BFD834
+dark: #B8D834
 
 -- ftd.color cta-primary-hover-:
-light: #163e6a
-dark: #163e6a
+light: #72CC50
+dark: #72CC50
 
 -- ftd.color cta-primary-pressed-:
-light: #040c15
-dark: #040c15
+light: #019875
+dark: #019875
 
 -- ftd.color cta-primary-disabled-:
 light: rgba(13, 37, 63, 0.4)
 dark: rgba(13, 37, 63, 0.4)
 
 -- ftd.color cta-primary-focused-:
-light: #2770be
-dark: #2770be
+light: #00AEAD
+dark: #00AEAD
 
 -- ftd.color cta-primary-border-:
 light: #2b8074
 dark: #2b8074
 
 -- ftd.color cta-primary-text-:
-light: #feffff
-dark: #feffff
+light: #494848
+dark: #494848
 
 
 -- ftd.cta-colors cta-primary-:
@@ -131,32 +131,32 @@ border: $cta-primary-border-
 text: $cta-primary-text-
 
 -- ftd.color cta-secondary-base-:
-light: #434B7B
-dark: #434B7B
+light: #FFAE41
+dark: #FFAE41
 
 -- ftd.color cta-secondary-hover-:
-light: #363d63
-dark: #363d63
+light: #FF9506
+dark: #FF9506
 
 -- ftd.color cta-secondary-pressed-:
-light: #242942
-dark: #242942
+light: #FF5E01
+dark: #FF5E01
 
 -- ftd.color cta-secondary-disabled-:
 light: rgba(67, 75, 123, 0.4)
 dark: rgba(67, 75, 123, 0.4)
 
 -- ftd.color cta-secondary-focused-:
-light: #5b66a4
-dark: #5b66a4
+light: #F83D41
+dark: #F83D41
 
 -- ftd.color cta-secondary-border-:
 light: #485184
 dark: #485184
 
 -- ftd.color cta-secondary-text-:
-light: #ffffff
-dark: #ffffff
+light: #494848
+dark: #494848
 
 -- ftd.cta-colors cta-secondary-:
 base: $cta-secondary-base-
@@ -168,16 +168,16 @@ border: $cta-secondary-border-
 text: $cta-secondary-text-
 
 -- ftd.color cta-tertiary-base-:
-light: #4A6490
-dark: #4A6490
+light: #CAF0F8
+dark: #CAF0F8
 
 -- ftd.color cta-tertiary-hover-:
-light: #3d5276
-dark: #3d5276
+light: #90E0EF
+dark: #90E0EF
 
 -- ftd.color cta-tertiary-pressed-:
-light: #2b3a54
-dark: #2b3a54
+light: #00B4D8
+dark: #00B4D8
 
 -- ftd.color cta-tertiary-disabled-:
 light: rgba(74, 100, 144, 0.4)
@@ -188,12 +188,12 @@ light: #6882b1
 dark: #6882b1
 
 -- ftd.color cta-tertiary-border-:
-light: #4e6997
-dark: #4e6997
+light: #0077B6
+dark: #0077B6
 
 -- ftd.color cta-tertiary-text-:
-light: #ffffff
-dark: #ffffff
+light: #494848
+dark: #494848
 
 -- ftd.cta-colors cta-tertiary-:
 base: $cta-tertiary-base-
@@ -276,16 +276,16 @@ text: $error-text-
 border: $error-border-
 
 -- ftd.color success-base-:
-light: #282f25
-dark: #282f25
+light: #ACDF87
+dark: #ACDF87
 
 -- ftd.color success-text-:
-light: #e3f0c4
-dark: #e3f0c4
+light: #378805
+dark: #378805
 
 -- ftd.color success-border-:
-light: #3d741f
-dark: #3d741f
+light: #378805
+dark: #378805
 
 -- ftd.btb success-btb-:
 base: $success-base-
