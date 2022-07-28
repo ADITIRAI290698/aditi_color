@@ -78,12 +78,12 @@ light: #919192
 dark: #919192
 
 -- ftd.color text-:
-light: #9ea89e
-dark: #9ea89e
+light: #494848
+dark: #494848
 
 -- ftd.color text-strong-:
-light: #ffffff
-dark: #ffffff
+light: #000000
+dark: #000000
 
 -- ftd.color shadow-:
 light: #007f9b
