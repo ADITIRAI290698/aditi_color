@@ -41,8 +41,7 @@ Import `lemon-lime` into `FPM/config.ftd` file.
 -- cb.code:
 lang: ftd
 
-\-- import: lemon-lime
-
+\-- import: lemon-lim
 
 
 
