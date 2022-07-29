@@ -41,7 +41,7 @@ Import `lemon-lime` into `FPM/config.ftd` file.
 -- cb.code:
 lang: ftd
 
-\-- import: lemon-lime
+\-- import: lemon-lim
 
 
 
@@ -52,8 +52,8 @@ lang: ftd
 
 
 -- ftd.color base-:
-light: #F9EF67
-dark: #F9EF67
+light: #E2D664
+dark: #E2D664
 
 -- ftd.color step-1-:
 light: #FCDA08
