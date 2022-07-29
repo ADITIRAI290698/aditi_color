@@ -20,18 +20,19 @@ padding-horizontal if $is-mobile: 20
 background-color: $fpm.color.main.background.base
 
 
--- pd.package: Night-moon 
-name: fifthtry.github.io/lemon-lime
+-- pd.package: Lemon-Lime CS
+name: fifthtry.github.io/lemon-lime-cs
 
-Lemon-Lime  is a color schemes which can be used to change color scheme of web 
+Lemon-Lime-CS  is a color scheme which can be used to change color scheme of web 
 packages via using `FTD` lang.
 
-To use `lemon-lime` color scheme on your web package, add below into `FPM.ftd` file:
+To use `lemon-lime-cs` color scheme on your web package, add below into 
+`FPM.ftd` file:
 
 -- cb.code:
 lang: ftd
 
-\-- fpm.dependency: fifthtry.github.io/lemon-lime as lemon-lime
+\-- fpm.dependency: fifthtry.github.io/lemon-lime-cs as lemon-lime
 
 
 -- tf.markdown:
@@ -52,16 +53,16 @@ lang: ftd
 
 
 -- ftd.color base-:
-light: #F9EF67
-dark: #F9EF67
+light: #FAFF99
+dark: #FAFF99
 
 -- ftd.color step-1-:
-light: #FCDA08
-dark: #FCDA08
+light: #FCFA5C
+dark: #FCFA5C
 
 -- ftd.color step-2-:
-light: #FAF394
-dark: #FAF394
+light: #FFF200
+dark: #FFF200
 
 -- ftd.background-colors background-:
 base: $base-
