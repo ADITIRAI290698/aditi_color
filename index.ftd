@@ -77,8 +77,8 @@ light: #919192
 dark: #919192
 
 -- ftd.color text-:
-light: #494848
-dark: #494848
+light: #000000
+dark: #000000
 
 -- ftd.color text-strong-:
 light: #000000
@@ -192,8 +192,8 @@ light: #0077B6
 dark: #0077B6
 
 -- ftd.color cta-tertiary-text-:
-light: #ffffff
-dark: #ffffff
+light: #9ea89e
+dark: #9ea89e
 
 -- ftd.cta-colors cta-tertiary-:
 base: $cta-tertiary-base-
