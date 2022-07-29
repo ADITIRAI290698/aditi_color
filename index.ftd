@@ -117,8 +117,8 @@ light: #2b8074
 dark: #2b8074
 
 -- ftd.color cta-primary-text-:
-light: #ffffff
-dark: #ffffff
+light: #000000
+dark: #000000
 
 
 -- ftd.cta-colors cta-primary-:
@@ -155,8 +155,8 @@ light: #485184
 dark: #485184
 
 -- ftd.color cta-secondary-text-:
-light: #ffffff
-dark: #ffffff
+light: #000000
+dark: #000000
 
 -- ftd.cta-colors cta-secondary-:
 base: $cta-secondary-base-
@@ -192,8 +192,8 @@ light: #0077B6
 dark: #0077B6
 
 -- ftd.color cta-tertiary-text-:
-light: #9ea89e
-dark: #9ea89e
+light: #000000
+dark: #000000
 
 -- ftd.cta-colors cta-tertiary-:
 base: $cta-tertiary-base-
