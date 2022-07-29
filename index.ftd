@@ -93,32 +93,32 @@ light: #007f9b
 dark: #007f9b
 
 -- ftd.color cta-primary-base-:
-light: #BFD834
-dark: #B8D834
+light: #67BEEB
+dark: #67BEEB
 
 -- ftd.color cta-primary-hover-:
-light: #72CC50
-dark: #72CC50
+light: #507EC0
+dark: #507EC0
 
 -- ftd.color cta-primary-pressed-:
-light: #019875
-dark: #019875
+light: #22558E 
+dark: #22558E 
 
 -- ftd.color cta-primary-disabled-:
 light: rgba(13, 37, 63, 0.4)
 dark: rgba(13, 37, 63, 0.4)
 
 -- ftd.color cta-primary-focused-:
-light: #00AEAD
-dark: #00AEAD
+light: #1B3F70
+dark: #1B3F70
 
 -- ftd.color cta-primary-border-:
 light: #2b8074
 dark: #2b8074
 
 -- ftd.color cta-primary-text-:
-light: #494848
-dark: #494848
+light: #ffffff
+dark: #ffffff
 
 
 -- ftd.cta-colors cta-primary-:
@@ -131,32 +131,32 @@ border: $cta-primary-border-
 text: $cta-primary-text-
 
 -- ftd.color cta-secondary-base-:
-light: #FFAE41
-dark: #FFAE41
+light: #8CC63F 
+dark: #8CC63F 
 
 -- ftd.color cta-secondary-hover-:
-light: #FF9506
-dark: #FF9506
+light: #46853E
+dark: #46853E
 
 -- ftd.color cta-secondary-pressed-:
-light: #FF5E01
-dark: #FF5E01
+light: #446743
+dark: #446743
 
 -- ftd.color cta-secondary-disabled-:
 light: rgba(67, 75, 123, 0.4)
 dark: rgba(67, 75, 123, 0.4)
 
 -- ftd.color cta-secondary-focused-:
-light: #F83D41
-dark: #F83D41
+light: #3C4921
+dark: #3C4921
 
 -- ftd.color cta-secondary-border-:
 light: #485184
 dark: #485184
 
 -- ftd.color cta-secondary-text-:
-light: #494848
-dark: #494848
+light: #ffffff
+dark: #ffffff
 
 -- ftd.cta-colors cta-secondary-:
 base: $cta-secondary-base-
@@ -168,32 +168,32 @@ border: $cta-secondary-border-
 text: $cta-secondary-text-
 
 -- ftd.color cta-tertiary-base-:
-light: #CAF0F8
-dark: #CAF0F8
+light: #E9137D
+dark: #E9137D
 
 -- ftd.color cta-tertiary-hover-:
-light: #90E0EF
-dark: #90E0EF
+light: #EE77AE
+dark: #EE77AE
 
 -- ftd.color cta-tertiary-pressed-:
-light: #00B4D8
-dark: #00B4D8
+light: #682A49
+dark: #682A49
 
 -- ftd.color cta-tertiary-disabled-:
 light: rgba(74, 100, 144, 0.4)
 dark: rgba(74, 100, 144, 0.4)
 
 -- ftd.color cta-tertiary-focused-:
-light: #6882b1
-dark: #6882b1
+light: #430D28
+dark: #430D28
 
 -- ftd.color cta-tertiary-border-:
 light: #0077B6
 dark: #0077B6
 
 -- ftd.color cta-tertiary-text-:
-light: #494848
-dark: #494848
+light: #ffffff
+dark: #ffffff
 
 -- ftd.cta-colors cta-tertiary-:
 base: $cta-tertiary-base-
